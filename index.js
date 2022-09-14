@@ -93,4 +93,7 @@ function parse (nik) {
   return resp;
 }
 
-console.log(parse(3329091003780012));
+module.exports = {
+  parse,
+  isValid
+};

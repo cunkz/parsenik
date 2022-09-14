@@ -23,19 +23,6 @@ Parse NIK juga memiliki beberapa pesan error sbb :
 
 ## 🔧 Cara Install
 
-**HTML Javascript**
-
-```
-<script type="text/javascript" src="index.js"></script>
-<script>
-    const nik = 3329091003780012;
-    const hasil = parse(nik);
-    console.log(hasil);
-</script>
-```
-
-**NodeJS**
-
 Jalankan perintah pada terminal :
 
 ```
@@ -43,9 +30,9 @@ npm i parsenik
 ```
   
 Tambahkan kode baris berikut lalu jalankan aplikasi NodeJS :
-  
+
 ```
-const parsenik = require("parse");
+const parsenik = require("parsenik");
 const nik = 3329091003780012;
 const hasil = parsenik.parse(nik);
 console.log(hasil);
