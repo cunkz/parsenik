@@ -1,7 +1,7 @@
 
 # Parse NIK
 
-Javascript Library yang memudahkan untuk melakukan parse dan validasi data beserta tanggal atas sebuah Nomor Induk Kependudukan (NIK)
+Javascript Library yang memudahkan untuk melakukan parse dan validasi data beserta tanggal atas sebuah Nomor Induk Kependudukan (NIK) KTP
 
 ## ⭐ Fitur
 
@@ -23,7 +23,7 @@ Parse NIK juga memiliki beberapa pesan error sbb :
 
 ## 🔧 Cara Install
 
-HTML Javascript
+**HTML Javascript**
 
 ```
 <script type="text/javascript" src="index.js"></script>
@@ -34,7 +34,7 @@ HTML Javascript
 </script>
 ```
 
-NodeJS
+**NodeJS**
 
 Jalankan perintah pada terminal :
 

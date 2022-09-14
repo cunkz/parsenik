@@ -1,12 +1,16 @@
 {
   "name": "parsenik",
   "version": "1.0.0",
-  "description": "Javascript Library yang memudahkan untuk melakukan parse dan validasi data beserta tanggal atas sebuah Nomor Induk Kependudukan (NIK)",
+  "description": "Javascript Library yang memudahkan untuk melakukan parse dan validasi data beserta tanggal atas sebuah Nomor Induk Kependudukan (NIK) KTP",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "nik",
+    "ktp",
+    "parse"
+  ],
   "author": "cunkz",
   "license": "MIT",
   "dependencies": {
