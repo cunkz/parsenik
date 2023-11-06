@@ -3,6 +3,7 @@
 
 Javascript Library yang memudahkan untuk melakukan parse dan validasi data beserta tanggal atas sebuah Nomor Induk Kependudukan (NIK) KTP
 
+
 ## ⭐ Fitur
 
 Parse NIK memiliki beberapa fungsi yang dapat digunakan sbb :
@@ -20,6 +21,7 @@ Parse NIK juga memiliki beberapa pesan error sbb :
 | Jumlah karakter NIK tidak sesuai |
 | Tanggal Lahir tidak sesuai |
 | Wilayah tidak ditemukan |
+
 
 ## 🔧 Cara Install
 
